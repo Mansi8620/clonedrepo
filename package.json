@@ -1,5 +1,5 @@
 {
-  "name": "crwn-clothing",
+  "name": "mansi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Going through our folder structure for the project, breaking out homepage component into smaller components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mansi8620/clonedrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mansi8620/clonedrepo/issues"
+  },
+  "homepage": "https://github.com/Mansi8620/clonedrepo#readme"
 }
